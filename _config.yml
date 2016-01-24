@@ -1,0 +1,28 @@
+name: Guardian Bob
+favicon: null
+layout_spectrum: 0.884576975600794
+typography_spectrum: 0.8514346689917147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3387808713596314
+  lightness: 0.684579057386145
+  saturation: 0.24777690274640918
+  rhythmicContrast: 0.7325964907649904
+purpose: []
