@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Guardian Bob]]></title>
         <description><![CDATA[Guardian Bob]]></description>
-        <link>https://thegrid.ai/guardian-bob/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 13:18:06 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/guardian-bob/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 13:17:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09d42bea-01d2-49aa-9ca9-e860d069a3e9.jpg">]]></description>
-            <link>https://thegrid.ai/guardian-bob/c58b7a35-4075-4b9e-8b27-483d4c490c16/index.html</link>
+            <link>undefinedc58b7a35-4075-4b9e-8b27-483d4c490c16/index.html</link>
             <guid isPermaLink="false">c58b7a35-4075-4b9e-8b27-483d4c490c16</guid>
-            <pubDate>Sun, 24 Jan 2016 13:18:05 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 13:17:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
